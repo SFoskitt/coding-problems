@@ -6,6 +6,17 @@
   "configurations": [
     {
         "type": "java",
+        "name": "LC_11",
+        "request": "launch",
+        //"mainClass": "C:/Users/foski/Documents/coding-problems/leetcode/LC_11.java",
+        "mainClass": "../leetcode/LC_11.java",
+        "projectName": "coding-problems_76efdfba",
+        //"args": "1 1",
+        "args": "1 8 6 2 5 4 8 3 7",
+        "vmArgs": ["-ea"]
+    },
+    {
+        "type": "java",
         "name": "LC_15",
         "request": "launch",
         "mainClass": "LC_15",
@@ -19,6 +30,13 @@
         "mainClass": "LC_12",
         "projectName": "coding-problems",
         "args": "3974"
+    },
+    {
+        "type": "java",
+        "name": "Test_LC_11",
+        "request": "launch",
+        "mainClass": "Test_LC_11",
+        "projectName": "coding-problems"
     },
     {
         "type": "java",
