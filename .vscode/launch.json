@@ -6,10 +6,18 @@
   "configurations": [
     {
         "type": "java",
+        "name": "LC_2357",
+        "request": "launch",
+        "mainClass": "Users/quantum_nontrivial/Documents/coding-problems/leetcode/LC_2357.java",
+        "projectName": "coding-problems_76efdfba",
+        "args": "1 5 0 3 5",
+        "vmArgs": ["-ea"]
+    },
+    {
+        "type": "java",
         "name": "LC_11",
         "request": "launch",
-        //"mainClass": "C:/Users/foski/Documents/coding-problems/leetcode/LC_11.java",
-        "mainClass": "../leetcode/LC_11.java",
+        "mainClass": "C:/Users/foski/Documents/coding-problems/leetcode/LC_11.java",
         "projectName": "coding-problems_76efdfba",
         //"args": "1 1",
         "args": "1 8 6 2 5 4 8 3 7",
