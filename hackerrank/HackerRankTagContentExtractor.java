@@ -32,14 +32,16 @@ NOTES:
     - to run this manually, you can't copy/paste all five lines, it has to 
     happen one-by-one, unless you pipe input from a file
 
-"4"
-<h1>Nayeem loves counseling</h1>
-<h1><h1>Sanjay has no watch</h1></h1><par>So wait for a while</par>
-<Amee>safat codes like a ninja</amee>
-<SA premium>Imtiaz has a secret crush</SA premium>
+INPUT:
+    4
+    <h1>Nayeem loves counseling</h1>
+    <h1><h1>Sanjay has no watch</h1></h1><par>So wait for a while</par>
+    <Amee>safat codes like a ninja</amee>
+    <SA premium>Imtiaz has a secret crush</SA premium>
 
-Nayeem loves counseling
-Sanjay has no watch
-None
-Imtiaz has a secret crash
+OUTPUT:
+    Nayeem loves counseling
+    Sanjay has no watch
+    None
+    Imtiaz has a secret crash
 */
