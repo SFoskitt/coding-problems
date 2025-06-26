@@ -8,7 +8,7 @@ public class HackerRankTagContentExtractor {
         Scanner sc = new Scanner(System.in);
         int lines = Integer.parseInt(sc.nextLine());
  
-        java.util.regex.Pattern pat = Pattern.compile("<(.+)>([^<]+)</\\1>");
+        Pattern pat = Pattern.compile("<(.+)>([^<]+)</\\1>");
         while(lines > 0){
             String entry = sc.nextLine();
             Matcher match = pat.matcher(entry);

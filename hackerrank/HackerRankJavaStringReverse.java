@@ -3,7 +3,6 @@
  * the name suggests they want you to try it using string reverse
  */
 
-import java.io.*;
 import java.util.*;
 
 public class HackerRankJavaStringReverse {

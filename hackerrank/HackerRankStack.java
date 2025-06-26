@@ -44,6 +44,7 @@ public class HackerRankStack {
     }
 }
 
+// https://www.hackerrank.com/challenges/java-stack/problem
 /**
  * NOTES: This is "balanced parens" and the title of the problem
  * suggests you'll need a stack to do that.
@@ -52,4 +53,3 @@ public class HackerRankStack {
  * remembering the "close char when empty stack" scenario
  * helped a lot.
  */
-// https://www.hackerrank.com/challenges/java-stack/problem?isFullScreen=true
